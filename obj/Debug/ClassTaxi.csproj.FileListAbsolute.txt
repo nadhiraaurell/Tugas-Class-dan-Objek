@@ -1,0 +1,6 @@
+E:\21.11.4399\ClassTaxi\ClassTaxi\bin\Debug\ClassTaxi.exe.config
+E:\21.11.4399\ClassTaxi\ClassTaxi\obj\Debug\ClassTaxi.csprojResolveAssemblyReference.cache
+E:\21.11.4399\ClassTaxi\ClassTaxi\bin\Debug\ClassTaxi.exe
+E:\21.11.4399\ClassTaxi\ClassTaxi\bin\Debug\ClassTaxi.pdb
+E:\21.11.4399\ClassTaxi\ClassTaxi\obj\Debug\ClassTaxi.exe
+E:\21.11.4399\ClassTaxi\ClassTaxi\obj\Debug\ClassTaxi.pdb
